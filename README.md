@@ -94,14 +94,4 @@ Contributions are welcome! If you have any improvements or bug fixes, please:
 4. Push to the branch (`git push origin feature-branch`).
 5. Open a pull request.
 
-## 📄 License
 
-This project is open-source and available under the [MIT License](LICENSE).
-
-## 📧 Contact
-
-Feel free to reach out to me if you have any questions or suggestions:
-
-- **Portfolio**: [https://sakilk130.vercel.app/](https://sakilk130.vercel.app/)
-- **Email**: [sakilk130@gmail.com](mailto:sakilk130@gmail.com)
-- **GitHub**: [@sakilk130](https://github.com/sakilk130)
