@@ -1,6 +1,6 @@
 # Ubuntu Portfolio
 
-![Ubuntu Portfolio Screenshot](./public/screenshot.png)
+
 
 A modern portfolio app inspired by the Ubuntu desktop environment. This app showcases your work, skills, and experience with an intuitive and visually appealing design.
 
@@ -25,7 +25,7 @@ A modern portfolio app inspired by the Ubuntu desktop environment. This app show
 
 ## 📸 Preview
 
-![Portfolio Preview](./public/screenshot.png)
+
 
 ## 🛠️ Getting Started
 
